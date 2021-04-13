@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    
+    <user id="1">
+        <firstname>Robert</firstname>
+        <lastname>Hess</lastname>
+        <occupation>Scientist, water quality</occupation>
+    </user>
+    
+    <user id="2">
+        <firstname>Alexander</firstname>
+        <lastname>Chan</lastname>
+        <occupation>Programme researcher, broadcasting/film/video</occupation>
+    </user>
+    
+    <user id="3">
+        <firstname>Theresa</firstname>
+        <lastname>Johnson</lastname>
+        <occupation>Public house manager</occupation>
+    </user>
+    
+    <user id="4">
+        <firstname>Victor</firstname>
+        <lastname>Gonzalez</lastname>
+        <occupation>Corporate treasurer</occupation>
+    </user>
+    
+    <user id="5">
+        <firstname>Madison</firstname>
+        <lastname>Wiggins</lastname>
+        <occupation>Brewing technologist</occupation>
+    </user>
+    
+    <user id="6">
+        <firstname>Martha</firstname>
+        <lastname>Cisneros</lastname>
+        <occupation>Drilling engineer</occupation>
+    </user>
+    
+    <user id="7">
+        <firstname>Keith</firstname>
+        <lastname>Murphy</lastname>
+        <occupation>IT technical support officer</occupation>
+    </user>
+    
+    <user id="8">
+        <firstname>Scott</firstname>
+        <lastname>Maxwell</lastname>
+        <occupation>Editorial assistant</occupation>
+    </user>
+    
+    <user id="9">
+        <firstname>Susan</firstname>
+        <lastname>Myers</lastname>
+        <occupation>Pharmacist, hospital</occupation>
+    </user>
+    
+    <user id="10">
+        <firstname>Katherine</firstname>
+        <lastname>Brown</lastname>
+        <occupation>Geochemist</occupation>
+    </user>
+    
+</users>
